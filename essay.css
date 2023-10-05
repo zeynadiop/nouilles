@@ -1,0 +1,133 @@
+.logo-s,
+.logo-s * {
+  box-sizing: border-box;
+}
+.logo-s {
+  width: 72px;
+  height: 72px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  inset: 0;
+}
+.group2 {
+  width: 72px;
+  height: 72px;
+  position: static;
+}
+.group3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 21.6px;
+  top: 36px;
+  overflow: visible;
+}
+.group4 {
+  position: absolute;
+  left: 25.53px;
+  top: 23.55px;
+  overflow: visible;
+}
+.group5 {
+  position: absolute;
+  left: 29.91px;
+  top: 27.93px;
+  overflow: visible;
+}
+.group6 {
+  position: absolute;
+  left: 35.19px;
+  top: 23.55px;
+  overflow: visible;
+}
+.group7 {
+  position: absolute;
+  left: 35.19px;
+  top: 27.93px;
+  overflow: visible;
+}
+.group8 {
+  position: absolute;
+  left: 15.03px;
+  top: 27.03px;
+  overflow: visible;
+}
+.group9 {
+  position: absolute;
+  left: 19.03px;
+  top: 31.03px;
+  overflow: visible;
+}
+.group10 {
+  position: absolute;
+  left: 35.03px;
+  top: 27.03px;
+  overflow: visible;
+}
+.group11 {
+  position: absolute;
+  left: 38.97px;
+  top: 30.97px;
+  overflow: visible;
+}
+.group12 {
+  position: absolute;
+  left: 43.03px;
+  top: 35.03px;
+  overflow: visible;
+}
+.group13 {
+  position: absolute;
+  left: 12px;
+  top: 36px;
+  overflow: visible;
+}
+.group14 {
+  position: absolute;
+  left: 35.19px;
+  top: 36px;
+  overflow: visible;
+}
+.group15 {
+  position: absolute;
+  left: 47.03px;
+  top: 11.03px;
+  overflow: visible;
+}
+.group16 {
+  position: absolute;
+  left: 43.03px;
+  top: 15.03px;
+  overflow: visible;
+}
+.group17 {
+  position: absolute;
+  left: 14.79px;
+  top: 14.79px;
+  overflow: visible;
+}
+.group18 {
+  position: absolute;
+  left: 18.79px;
+  top: 10.79px;
+  overflow: visible;
+}
+.group19 {
+  position: absolute;
+  left: 35.92px;
+  top: 14.79px;
+  overflow: visible;
+}
+.group20 {
+  position: absolute;
+  left: 35.92px;
+  top: 10.79px;
+  overflow: visible;
+}
